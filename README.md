@@ -1,0 +1,4 @@
+# AndroidDialingEx
+ACTION_CALLとACTION_DIALの挙動について
+
+挙動差を見るだけなので、とりあえずエラー処理とかは実装していない。
